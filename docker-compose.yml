@@ -1,0 +1,8 @@
+version: '3'
+services:
+  appgolang:
+    build: .
+    image: api:2.2
+    container_name: api
+    ports:
+      - 8001:8000
