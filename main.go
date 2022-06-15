@@ -7,11 +7,11 @@ import (
 )
 
 func index(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "Hello API")
+	fmt.Fprintf(w, "Hello API Test-DevOps")
 }
 
 func about(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "Hello API")
+	fmt.Fprintf(w, "Hello API Test-DevOps")
 }
 
 func main() {
