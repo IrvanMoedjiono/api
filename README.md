@@ -2,4 +2,4 @@
 
 - coba
 
-<p align="center"><img src="../pictures/1.png"></p>
+<p align="center"><img src="pictures/1.png"></p>
