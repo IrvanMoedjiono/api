@@ -1,6 +1,6 @@
 ## Jwaban Interview PT. Global Sukses Solusi (RUN System)
 
-Sebelumnya saya mohon maaf mengganggu waktu dari Pak Budi, Pak Tedi, dan Bu Cita. Terima kasih telah memberikan saya waktu dan kesempatan untuk menjawab pertanyaan pada saat interview pada hari Rabu, 15 Juni 2022. Berikut jawaban saya mengenai pertanyaan pada saat interview yang belum terjawab.
+Sebelumnya saya mohon maaf mengganggu waktu dari Pak Budi, Pak Tedi, dan Bu Cahya. Terima kasih telah memberikan saya waktu dan kesempatan untuk menjawab pertanyaan pada saat interview pada hari Rabu, 15 Juni 2022. Berikut jawaban saya mengenai pertanyaan pada saat interview yang belum terjawab.
 
 ### Mengganti ip address pada konfigurasi reverse proxy nginx
 
