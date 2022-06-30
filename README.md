@@ -14,9 +14,9 @@ Sebelumnya saya mohon maaf mengganggu waktu dari Pak Budi, Pak Tedi, dan Bu Cahy
 
 ### Automated Deployment with Jenkins
 
-- Jenkins berjalan di port 8080 dan saya menggunakan domain `demo-dashboard1.runsystemdev.com` agar jenkins dapat mengakses https dan melakukan webhook ke repo, disini saya menggunakan repo GitHub.
+- Jenkins berjalan di port 8080 dan saya menggunakan domain `...` agar jenkins dapat mengakses https dan melakukan webhook ke repo, disini saya menggunakan repo GitHub.
 
-- login dengan username dan password yang telah dibuat. username: irvan & pass: irvan
+- login dengan username dan password yang telah dibuat. username: ... & pass: ...
 
 <p align="center"><img src="pictures/3.png"></p>
 
